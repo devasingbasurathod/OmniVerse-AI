@@ -1,1 +1,1 @@
-# OmniVerse AI backend package
+# OmniVerse AI frontend package
